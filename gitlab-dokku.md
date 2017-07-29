@@ -10,7 +10,7 @@ date
 :   2017/07/29
 
 allotted-time
-:   60m
+:   50m
 
 theme
 :   lightning-simple

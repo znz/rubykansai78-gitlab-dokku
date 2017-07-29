@@ -311,3 +311,4 @@ https://hub.docker.com/r/_/postgres/
 
 - GitLab と Dokku を組み合わせて CI/CD 環境を作成する例を紹介
 - 環境構築に使っている Ansible Playbook は https://github.com/znz/ansible-playbook-gitlab-dokku
+- ブログ記事は http://blog.n-z.jp/blog/categories/gitlab/
